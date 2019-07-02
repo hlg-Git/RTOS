@@ -42,6 +42,7 @@ void rt_pin_mode(rt_base_t pin, rt_base_t mode);
 ![led_pin](https://github.com/hlg-Git/RTOS/blob/master/rt-thread/device/pin/picture/led_pin.png?raw=ture)
 
 <center><font face="黑体">图1.led原理图</font></center>
+
 代码如下：
 
 ```c
