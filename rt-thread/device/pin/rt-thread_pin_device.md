@@ -252,6 +252,10 @@ MSH_CMD_EXPORT(key_led_sample, key led sample); /* 导出至FinSH控制台 */
 
 ![FinSH_pin](https://github.com/hlg-Git/RTOS/blob/master/rt-thread/device/pin/picture/FinSH_pin.png?raw=ture)
 
+
+
 <center><font face="黑体">图3.FinSH终端</font></center>
+
+![FinSH_pin](./picture/FinSH_pin.png)
 
 [RT-Thread PIN设备管理-官网连接](https://www.rt-thread.org/document/site/programming-manual/device/pin/pin/)
