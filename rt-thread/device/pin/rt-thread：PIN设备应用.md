@@ -11,7 +11,7 @@ RT-Thread Version：4.0.1<br>
 ## PIN设备的操作方法
 应用程序通过RT-Thred提供的pin设备管理接口来操作GPIO，函数接口如下表:
 
-<div center><font face="黑体">表1.pin设备管理接口API</font></center></div>
+<div center><font face="黑体">表1.pin设备管理接口API</font></div>
 
 |      方法名称       |       方法描述       |
 | :-----------------: | :------------------: |
