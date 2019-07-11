@@ -12,7 +12,7 @@ RT-Thread Version：4.0.1<br>
 应用程序通过RT-Thred提供的pin设备管理接口来操作GPIO，函数接口如下表:
 <div align="center">我会居中的</div>
 <font face="黑体">表1.pin设备管理接口API</font>
-
+<div align="center">
 |      方法名称       |       方法描述       |
 | :-----------------: | :------------------: |
 |    rt_pin_mode()    |     设置引脚模式     |
@@ -21,6 +21,7 @@ RT-Thread Version：4.0.1<br>
 | rt_pin_attach_irq() | 绑定引脚中断回调函数 |
 | rt_pin_detach_irq() | 脱离引脚中断回调函数 |
 | rt_pin_irq_enable() |     使能引脚中断     |
+</div> 
 
 ### 1.  设置引脚模式
 在使用引脚之前需要先设定引脚的工作模式，通过下面函数完成：
